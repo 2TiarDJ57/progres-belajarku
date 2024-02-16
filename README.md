@@ -8,5 +8,5 @@ Progres belajarku selama di dicoding academy
   - Belajar dasar-dasar pemrogramman
   - Belajar membuat SKPL / Spesifikasi kebutuhan perangkat lunak
   - Belajar mendokumentasikan proyek aplikasi
-2. Belajar programming logic 101 (100%)
-3. Belajar Git & Github (37%)
+*2. Belajar programming logic 101 (100%)*
+*3. Belajar Git & Github (37%)*
