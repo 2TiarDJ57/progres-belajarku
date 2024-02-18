@@ -1,6 +1,6 @@
 progres-belajarku
 ==
-Progres belajarku selama di dicoding academy
+Progres belajarku selama di bangkit academy
 --
 * 1 Belajar dasar pemrogramman untuk pengembang software (100%)
   - Belajar URS / User Requirement Specification
